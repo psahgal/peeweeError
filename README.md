@@ -7,6 +7,8 @@ key before writing multiple rows for different entities to the database with the
 
 This was tested on Python 3.8.2.
 
+[Here](https://github.com/coleifer/peewee/issues/2162) is the issue associated with this example.
+
 ## Usage
 1. Install [docker](https://docs.docker.com/get-docker/) and [docker-compose](https://docs.docker.com/compose/install/),
    if you don't have it already. This will be used to run the database instance.
